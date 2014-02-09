@@ -21,7 +21,9 @@ begin
                   @errorLevel;
         end
 
-        
+        while(@dias >= 0) begin
+            --aqui vem a lógica
+        end
 
     end try
     begin catch
